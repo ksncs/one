@@ -10,9 +10,15 @@ h1 {
   font-size: 35px;
 }
 
+ul {
+  display: flex;
+}
+
 li {
   color: #fff;
   float: right;
+  list-style: none;
+  margin-left: 20px;
 }
 
 .fotter-logo {

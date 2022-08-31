@@ -6,7 +6,11 @@ footer {
   background-color: #636363;
 }
 
-.fotter-list {
+h1 {
+  font-size: 35px;
+}
+
+.fotter-list li{
   color: #fff;
   float: right;
 }

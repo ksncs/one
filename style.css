@@ -5,3 +5,8 @@ header {
 footer {
   background-color: #636363;
 }
+
+.fotter-list {
+  color: #fff;
+  float: right;
+}

@@ -21,6 +21,8 @@ h1 {
 
 .header-logo {
   margin-right: auto;
+  font-size: 32px;
+  color: #fff;
 }
 
 .header-list-item {

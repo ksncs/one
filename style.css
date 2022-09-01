@@ -9,6 +9,8 @@ header {
 
 footer {
   background-color: #636363;
+  position: absolute;
+  bottom: 0;
 }
 
 h1 {

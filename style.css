@@ -27,6 +27,12 @@ h {
   color: #fff;
 }
 
+.fotter-logo {
+  margin-right: auto;
+  font-size: 32px;
+  color: #fff;
+}
+
 .header-list-item {
   list-style: none;
   display: inline-block;

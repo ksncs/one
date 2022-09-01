@@ -14,18 +14,6 @@ h1 {
   font-size: 35px;
 }
 
-ul {
-  display: flex;
-  float: right;
-}
-
-li {
-  color: #fff;
-  float: right;
-  list-style: none;
-  margin-left: 20px;
-}
-
 .fotter-logo {
   font-size: 32px;
   color: #fff

@@ -22,7 +22,7 @@ footer {
 }
 
 h2 {
-  
+  border-bottom: solid 2px #333;
   font-size: 105px;
 }
 

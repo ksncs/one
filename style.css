@@ -26,6 +26,10 @@ h2 {
   font-size: 105px;
 }
 
+h3 {
+  border-bottom: solid 5px #5cb85c;
+}
+
 .fotter-logo {
   font-size: 32px;
   color: #fff

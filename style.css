@@ -75,7 +75,8 @@ color: #777;
 }
 
 .zentai {
-  display: flex;
-   flex-direction: column;
-    min-height: 100vh;
+   position: relative;
+      padding-bottom: 60px;
+      box-sizing: border-box;
+      min-height: 100vh;
 }
